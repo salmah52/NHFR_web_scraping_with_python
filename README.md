@@ -12,4 +12,4 @@ Each record is written to the CSV file as a single line, with each field separat
 
 Finally, the script closes the browser and the CSV file.
 
-Technologies Used List the programming languages, libraries, and tools that you used in your project
+Technologies Used List the programming languages, libraries, and tools that you used in your project.
